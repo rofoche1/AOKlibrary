@@ -6,23 +6,55 @@ body
   background-size: contain;
   background-position: center;
   font-size: 16px;
-  color: #777;
+  color: #000000;
   font-family: sans-serif;
   font-weight: 300;
 
 
 }
 
-#laptop-region
+#big-region
 {
   position: relative;
   margin: 5% auto;
-  height: 800px;
+  height: 850px;
   background: #efefef;
   box-shadow: 0 2px 4px rgba(250, 0, 0, 0.6);
 }
 
-.UMBC-logo
+#Mac-region
+{
+  position: relative;
+  margin: 5% auto;
+  height: 200px;
+  background: #B8860B;
+  box-shadow: 0 2px 4px rgba(250, 0, 0, 0.6);
+}
+#Dell-region
+{
+  position: relative;
+  margin: 5% auto;
+  height: 200px;
+  background: #B8860B;
+  box-shadow: 0 2px 4px rgba(250, 0, 0, 0.6);
+}
+
+#Chromebook-region
+{
+  position: relative;
+  margin: 5% auto;
+  height: 200px;
+  background: #B8860B;
+  box-shadow: 0 2px 4px rgba(250, 0, 0, 0.6);
+}
+
+.Mac-logo
+{
+  width: 150px;
+  height: 150px;
+}
+
+.Dell-logo
 {
   width: 150px;
   height: 150px;
