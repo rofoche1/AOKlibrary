@@ -1,0 +1,30 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background: url(external-content.duckduckgo.com.jpg);
+  background-size: contain;
+  background-position: center;
+  font-size: 16px;
+  color: #777;
+  font-family: sans-serif;
+  font-weight: 300;
+
+
+}
+
+#login-box
+{
+  position: relative;
+  margin: 5% auto;
+  width: 300px;
+  height: 350px;
+  background: #B8860B;
+  box-shadow: 0 2px 4px rgba(250, 0, 0, 0.6);
+}
+
+.UMBC-logo
+{
+  width: 150px;
+  height: 150px;
+}
